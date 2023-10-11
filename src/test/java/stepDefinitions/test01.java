@@ -50,10 +50,10 @@ public class test01 {
 			}
 		}
 		
-		XSSFWorkbook af = new XSSFWorkbook("C:\\Users\\Beqisoft\\Desktop\\01-02-2023 MoM.xlsx");
+		/*XSSFWorkbook af = new XSSFWorkbook("C:\\Users\\Beqisoft\\Desktop\\01-02-2023 MoM.xlsx");
 		XSSFSheet sheet = af.getSheet("Sheet1");
 		int st = (int) sheet.getRow(0).getCell(0).getNumericCellValue();
-		System.out.println(st);
+		System.out.println(st);*/
 	   
 	}
 
